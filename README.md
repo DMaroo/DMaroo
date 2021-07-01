@@ -9,7 +9,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DhruvMaroo&count_private=true&show_icons=true&theme=synthwave&include_all_commits=true&custom_title=My%20GitHub%20Stats&width=1" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvMaroo&hide=cmake,makefile&layout=compact&card_width=250" />
 </a>
