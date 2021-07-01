@@ -6,17 +6,13 @@
 
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DhruvMaroo&count_private=true&show_icons=true&theme=synthwave&include_all_commits=true&custom_title=My%20GitHub%20Stats" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvMaroo&hide=cmake,makefile&layout=compact" />
 </a>
-<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DhruvMaroo&count_private=true&show_icons=true&theme=synthwave&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvMaroo&hide=cmake,makefile)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!---
 DhruvMaroo/DhruvMaroo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
