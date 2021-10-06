@@ -9,10 +9,6 @@
 <a href="https://github.com/DMaroo#js-contribution-activity">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DMaroo&count_private=true&show_icons=true&theme=synthwave&include_all_commits=true&custom_title=My%20GitHub%20Stats&width=1" />
 </a>
-&nbsp;&nbsp;
-<a href="https://github.com/search?q=author:DMaroo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMaroo&hide=cmake,makefile&layout=compact&card_width=250" />
-</a>
 
 <!---
 DhruvMaroo/DhruvMaroo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
