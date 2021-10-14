@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DMaroo
-- 👀 I’m interested in computer security, ethical hacking, reverse engineering, networking, logic, problem solving, and desktop app development.
-- 🌱 I’m currently learning the basics of hacking and computer security, along with programming languages like C, C++ and Python. I am also learning to use GTK+3 and gtkmm to develop desktop apps, specifically focused on Linux.
-- 💞️ I’m looking to collaborate on computer security, making already written code less vulnerable, thus making that application more secure.
+- 👀 I’m interested in computer security, reverse engineering, networking, operating systems and desktop app development.
+- 🤝 I’m looking to collaborate on open source projects which are under rapid development and are targeted towards a technical audience.
 - 📫 You can reach out to me at my email: dhruvsmaroo@gmail.com
 
 <br>
