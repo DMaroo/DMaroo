@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @DMaroo
-- 👀 I’m interested in computer security, reverse engineering, networking, operating systems and desktop app development.
+- 👀 I’m interested in computer security, reverse engineering, graphics programming, operating systems, networking and desktop app development.
 - 🤝 I’m looking to collaborate on open source projects which are under rapid development and are targeted towards a technical audience.
 - 📫 You can reach out to me at my email: dhruvsmaroo@gmail.com
+- 🖼 My profile picture is generated using a simple fragment shader in GLSL which I wrote for fun to create "beautiful" patterns.
 
 <br>
 
